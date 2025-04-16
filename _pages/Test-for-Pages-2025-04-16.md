@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE-TITLE"
+title: "Test for Pages"
 permalink: /about/contact/
 
 ---
